@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <h1>Music Portfolio</h1>
     
 </div>
@@ -12,4 +12,4 @@ Follow my journey!
 
 ## Technologies
 
-HTML CSS Javascript 
+![](resources/images/HTML5_Badge_32.png) CSS Javascript 
